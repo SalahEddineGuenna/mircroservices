@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/compose.iml" filepath="$PROJECT_DIR$/.idea/compose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techefx-eureka-naming-server/techefx-eureka-naming-server.iml" filepath="$PROJECT_DIR$/techefx-eureka-naming-server/techefx-eureka-naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techefx-product-enquiry-service/techefx-product-enquiry-service.iml" filepath="$PROJECT_DIR$/techefx-product-enquiry-service/techefx-product-enquiry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techefx-product-stock-service/techefx-product-stock-service.iml" filepath="$PROJECT_DIR$/techefx-product-stock-service/techefx-product-stock-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techefx-spring-cloud-api-gateway-service/techefx-spring-cloud-api-gateway-service.iml" filepath="$PROJECT_DIR$/techefx-spring-cloud-api-gateway-service/techefx-spring-cloud-api-gateway-service.iml" />
+    </modules>
+  </component>
+</project>

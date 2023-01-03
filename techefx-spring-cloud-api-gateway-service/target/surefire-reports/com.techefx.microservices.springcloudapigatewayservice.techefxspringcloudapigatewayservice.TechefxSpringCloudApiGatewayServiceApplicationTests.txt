@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.techefx.microservices.springcloudapigatewayservice.techefxspringcloudapigatewayservice.TechefxSpringCloudApiGatewayServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.217 s - in com.techefx.microservices.springcloudapigatewayservice.techefxspringcloudapigatewayservice.TechefxSpringCloudApiGatewayServiceApplicationTests

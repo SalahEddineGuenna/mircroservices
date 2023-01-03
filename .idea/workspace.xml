@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c4aa5a7-c3d9-4d3d-9534-1bec77770716" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/techefx-eureka-naming-server/techefx-eureka-naming-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/techefx-eureka-naming-server/techefx-eureka-naming-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techefx-product-enquiry-service/techefx-product-enquiry-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/techefx-product-enquiry-service/techefx-product-enquiry-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techefx-product-stock-service/techefx-product-stock-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/techefx-product-stock-service/techefx-product-stock-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/techefx-spring-cloud-api-gateway-service/techefx-spring-cloud-api-gateway-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/techefx-spring-cloud-api-gateway-service/techefx-spring-cloud-api-gateway-service.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/techefx-eureka-naming-server" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jfwb2poboQJH9RMOysCPcMqgm2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/proev/Desktop/Architectures-Micro-services-avec-Spring-Cloud-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;46fb4facc4cbd71014e06a877eb9e429&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.TechefxProductStockServiceApplication">
+    <configuration name="TechefxProductEnquiryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="techefx-product-enquiry-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.techefx.microservices.productenquiryservice.techefxproductenquiryservice.TechefxProductEnquiryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechefxProductStockServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="techefx-product-stock-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.techefx.microservices.productstockservice.techefxproductstockservice.TechefxProductStockServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechefxSpringCloudApiGatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="techefx-spring-cloud-api-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.techefx.microservices.springcloudapigatewayservice.techefxspringcloudapigatewayservice.TechefxSpringCloudApiGatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4aa5a7-c3d9-4d3d-9534-1bec77770716" name="Changes" comment="" />
+      <created>1672482513882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672482513882</updated>
+      <workItem from="1672482521462" duration="340000" />
+      <workItem from="1672482909881" duration="38000" />
+      <workItem from="1672484352854" duration="1923000" />
+      <workItem from="1672572505912" duration="254000" />
+      <workItem from="1672734309586" duration="2710000" />
+      <workItem from="1672744456282" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
