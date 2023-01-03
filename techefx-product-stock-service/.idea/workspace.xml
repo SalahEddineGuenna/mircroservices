@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce40420-614a-4246-b442-33746b6a51db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/techefx-product-stock-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/techefx-product-stock-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/techefx-eureka-naming-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-product-enquiry-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../techefx-spring-cloud-api-gateway-service/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../techefx-docker-compose-workspace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../techefx-docker-compose-workspace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../techefx-docker-compose-workspace/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../techefx-docker-compose-workspace/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../techefx-eureka-naming-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +36,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,22 +65,18 @@
     </option>
   </component>
   <component name="ProjectId" id="2JoVtQ9Tjm0GQdDa2fF8cPEeS8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/proev/Desktop/compose/techefx-eureka-naming-server",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="TechefxProductStockServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="techefx-product-stock-service" />
@@ -60,10 +95,23 @@
       <option name="presentableId" value="Default" />
       <updated>1672744637936</updated>
       <workItem from="1672744639584" duration="1028000" />
+      <workItem from="1672757740501" duration="411000" />
+      <workItem from="1672758252451" duration="2357000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
